@@ -1,0 +1,163 @@
+body{
+  font-family: "Source Sans Pro",sans-serif;
+  font-size: 20px;
+  line-height: 1.35;
+  color: #fff;
+  background-color: transparent;
+  margin: 0px;
+}
+
+header{
+  background: transparent;
+}
+
+h2{
+  font-size: 50px;
+  font-weight: 300;
+}
+
+h3{
+  font-size: 32px;
+  font-weight: 300;
+}
+
+h4{
+  font-size: 20px; 
+  font-weight: 300; 
+}
+
+p{
+  font-size: 16px;
+  font-weight: 300;
+}
+
+a {
+  text-decoration: none;
+  font-size: 0.9em;
+  background-color: transparent;
+  padding: 0.625em 0;
+  color: #fff
+}
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  height: 100%;
+  font-size: 16px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+}
+
+.heart{
+  padding: 20px;
+}
+
+.top-left{
+  display: inline-block;  
+}
+
+.top-links {
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.search{
+  padding: 20px;
+  background-color: #273547;
+}
+
+.search a{
+  font-size: 16px;
+}
+
+.search div{
+  display: inline-block;
+}
+
+.search form{
+  width: 1000px;
+  height: 40px;
+  border: 2px solid white;
+}
+
+#build {
+  background: rgba(0,0,0,0) url("images/city-scape.svg");
+  padding: 150px;
+}
+
+#build article{
+  width: 50%;
+}
+
+#sign-orgs{
+  background-color: #273547;
+  padding: 150px;
+}
+
+.img{
+  padding: 10px 30px;
+  width: 50%;
+  float: left;
+}
+
+#text li{
+  list-style: none;
+}
+
+#install-npm{
+  background: rgba(0,0,0,0) url("images/forklift.svg") no-repeat right bottom / cover;
+  padding: 150px;
+}
+
+#install-npm article{
+  width: 50%;
+}
+
+.oval {
+  width: 160px;
+  height: 80px;
+  border-radius: 40px;
+  padding: 10px 20px;
+}
+
+.yellow{
+  background: #f09233;
+}
+
+.red{
+  background: #cb3837;
+}
+
+.grey{
+  background: #34495e;
+}
+
+#building-blocks{
+  color: #6d7986;
+  padding: 50px 150px;
+  text-align: center;
+}
+
+#building-blocks a{
+  color: #cb3837;
+}
+
+.tip{
+  width: 33%;
+  float: left;
+  margin-top: 10px;
+}
+
+.text{
+  margin: 20px 70px;
+}
